@@ -1,92 +1,107 @@
-<h1 align="center">Hi 👋, I'm JayaSai Kiran</h1>
-<h3 align="center">Frontend Developer • React | Next.js | TypeScript | TailwindCSS</h3>
+---
 
-<p align="center">
-  Passionate about building fast, scalable, and delightful web applications with modern frontend technologies.
-</p>
+# 🚀 **Hi, I'm JayaSaiKiran**
+
+### **Frontend Developer** specializing in **Vite + React** and **Next.js**, focused on building **modern**, **responsive**, and **scalable** web applications using **Tailwind CSS**, **Redux Toolkit**, **Zustand**, and **Shadcn UI**. Passionate about writing **clean, maintainable code** and crafting **user-friendly interfaces** that deliver **high performance**, **accessibility**, and a **seamless user experience** across all devices.
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working on **FrontNest**
-- 🌱 Exploring **LangChain, LangGraph, FastAPI** for AI-driven applications  
-- 👯 Open to collaborating on **Open Source & Developer Tools**  
-- 💬 Ask me about **React, Next.js, TailwindCSS, Zustand, Redux Toolkit**  
-- ⚡ Fun fact: I love turning complex UI ideas into clean reusable components
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </a>
-</p>
+I love working with:
+✨ **Modern React patterns**
+✨ **Reusable UI components**
+✨ **State management solutions**
+✨ **Micro-interactions using GSAP**
+✨ **Full-stack apps with serverless backends**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🔥 **About Me**
 
-<p align="left">
-  <a href="https://aws.amazon.com/amplify/" target="_blank"><img src="https://docs.amplify.aws/assets/logo-dark.svg" width="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-  <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40"/></a>
-</p>
+* 🌐 Strong expertise in **scalable React/Next.js applications**
+* 🎨 UI-driven development using **TailwindCSS & Shadcn UI**
+* ⚡ Performance-focused architecture (**memoization, RSC, server actions**)
+* 🧩 Skilled in building **reusable hooks and component libraries**
+* 🌀 Experience with **GSAP** for animations & micro-interactions
+* ☁️ Building serverless apps using **Hono + Neon Postgres**
+* 📦 Strong in **code reviews, mentoring, architecture decisions**, and creating maintainable systems
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ **Languages & Tools**
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" />
-</p>
+### **Frontend Core**
+
+* **Vite + React**
+* **Next.js**
+* **TypeScript**
+* **JavaScript (ES6+)**
+* **TailwindCSS**
+* **Shadcn UI**
+* **React-Bootstrap**
+* **Redux Toolkit**
+* **Zustand**
+* **TanStack Query/Table**
+* **SCSS / CSS3**
+
+### **Animations**
+
+* **GSAP (GreenSock)**
+
+### **Backend / Serverless**
+
+* **Hono**
+* **Neon Serverless Postgres**
+* **Node.js**
+* **Express.js**
+
+### **Build & Tooling**
+
+* **Webpack**
+* **Babel**
+* **ESLint / Prettier**
+* **Biome**
+* **TurboRepo**
+
+### **APIs & Data**
+
+* **REST APIs**
+* **TanStack Query**
+* **Axios / Fetch**
+
+### **Hosting Tools**
+
+* **Vercel**
+* **Netlify**
+* **AWS Amplify**
+* **Docker Containers**
+* **GitHub Actions**
+* **VPS (Hostinger / Coolify / Dockploy / DigitalOcean)**
+
+### **Version Control**
+
+* **Git**
+* **GitHub**
+* **GitLab**
 
 ---
 
-## 🚀 Current Focus
+## 📌 **What I’m Currently Working On**
 
-- Building **modern, scalable UI systems**
-- Enhancing performance with **Next.js App Router**
-- Exploring **AI + Frontend** integrations  
-- Improving **DX**, reusable components, and frontend architecture patterns
+* **FrontNest** — A modern frontend knowledge & component hub built with **Next.js (App Router)**.
+  Includes:
 
----
-
-## 🧩 Fun Zone
-
-> “Good UI feels invisible. Great UI feels inevitable.”
-
-I enjoy experimenting with **GSAP**, **Framer Motion**, **AI-driven UI generation**, and building developer-friendly tools.
+  * **Custom Hooks:** useClipboard, useDebounce, useDialogStore, useFetch, useFullscreen, useTheme, useMobile, useHover, usePrevious, useToggle...
+  * **Zustand Hooks:** useFullscreenStore, useHoverStore...
+  * **Utilities:** Debounce, Format Date, Icon Renderer, Local Storage Helpers...
+  * **GSAP Animations:** Magnetic Button, Scroll Smoother...
+  * **Intersection Observers:** useIntersectionObserver, useMultiIntersectionObserver...
 
 ---
 
-## ⭐ Thank You!
+## 🚀 **Featured Projects**
 
-If you like my work, consider ⭐ starring repositories — it motivates me to share more!
+### 🔹 **Next.js Shadcn UI Admin Dashboard**
 
+A full-featured dashboard with **authentication**, **server actions**, and **analytics UI components**.
+
+---
