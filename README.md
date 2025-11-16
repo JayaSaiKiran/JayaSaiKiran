@@ -12,7 +12,6 @@ I love working with:
 ✨ **Full-stack apps with serverless backends**
 
 ---
----
 
 ## 🛠️ **Languages & Tools**
 
