@@ -15,25 +15,25 @@
 ## 🛠️ Languages & Tools
 
 **Frontend Core**
-Vite + React • Next.js • TypeScript • JavaScript (ES6+) • TailwindCSS • Shadcn UI • React-Bootstrap • Redux Toolkit • Zustand • TanStack Query/Table • SCSS / CSS3
+- Vite + React • Next.js • TypeScript • JavaScript (ES6+) • TailwindCSS • Shadcn UI • React-Bootstrap • Redux Toolkit • Zustand • TanStack Query/Table • SCSS / CSS3
 
 **Animations**
-GSAP (GreenSock)
+- GSAP (GreenSock)
 
 **Backend / Serverless**
-Hono • Neon Serverless Postgres • Node.js • Express.js
+- Hono • Neon Serverless Postgres • Node.js • Express.js
 
 **Build & Tooling**
-Webpack • Babel • ESLint / Prettier • Biome • TurboRepo
+- Webpack • Babel • ESLint / Prettier • Biome • TurboRepo
 
 **APIs & Data**
-REST APIs • TanStack Query • Axios / Fetch
+- REST APIs • TanStack Query • Axios / Fetch
 
 **Hosting Tools**
-Vercel • Netlify • AWS Amplify • Docker Containers • GitHub Actions • VPS (Hostinger / Coolify / Dockploy / DigitalOcean)
+- Vercel • Netlify • AWS Amplify • Docker Containers • GitHub Actions • VPS (Hostinger / Coolify / Dockploy / DigitalOcean)
 
 **Version Control**
-Git • GitHub • GitLab
+- Git • GitHub • GitLab
 
 ## 📌 **What I’m Currently Working On**
 
