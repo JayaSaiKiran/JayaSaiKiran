@@ -2,12 +2,12 @@
 
 **Frontend Developer** specializing in **Vite + React** and **Next.js**, focused on building **modern**, **responsive**, and **scalable** web applications using **Tailwind CSS**, **Redux Toolkit**, **Zustand**, and **Shadcn UI**. Passionate about writing **clean, maintainable code** and crafting **user-friendly interfaces** that deliver **high performance**, **accessibility**, and a **seamless user experience** across all devices.
 
-I love working with:
-✨ **Modern React patterns**
-✨ **Reusable UI components**
-✨ **State management solutions**
-✨ **Micro-interactions using GSAP**
-✨ **Full-stack apps with serverless backends**
+## 💖 I love working with:
+- ✨ **Modern React patterns**
+- ✨ **Reusable UI components**
+- ✨ **State management solutions**
+- ✨ **Micro-interactions using GSAP**
+- ✨ **Full-stack apps with serverless backends**
 
 ## 🛠️ Languages & Tools
 
