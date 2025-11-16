@@ -9,8 +9,6 @@ I love working with:
 ✨ **Micro-interactions using GSAP**
 ✨ **Full-stack apps with serverless backends**
 
----
-
 ## 🛠️ **Languages & Tools**
 
 ### **Frontend Core**
@@ -67,8 +65,6 @@ I love working with:
 * **GitHub**
 * **GitLab**
 
----
-
 ## 📌 **What I’m Currently Working On**
 
 * **FrontNest** — A modern frontend knowledge & component hub built with **Next.js (App Router)**.
@@ -79,12 +75,8 @@ I love working with:
   * **GSAP Animations:** Magnetic Button, Scroll Smoother...
   * **Intersection Observers:** useIntersectionObserver, useMultiIntersectionObserver...
 
----
-
 ## 🚀 **Featured Projects**
 
 ### 🔹 **Next.js Shadcn UI Admin Dashboard**
 
 A full-featured dashboard with **authentication**, **server actions**, and **analytics UI components**.
-
----
