@@ -11,10 +11,6 @@ I love working with:
 
 ## 🛠️ Languages & Tools
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### **Frontend Core**
 Vite + React • Next.js • TypeScript • JavaScript (ES6+) • TailwindCSS • Shadcn UI • React-Bootstrap • Redux Toolkit • Zustand • TanStack Query/Table • SCSS / CSS3
 
@@ -23,9 +19,6 @@ GSAP (GreenSock)
 
 #### **Backend / Serverless**
 Hono • Neon Serverless Postgres • Node.js • Express.js
-
-</td>
-<td width="50%" valign="top">
 
 #### **Build & Tooling**
 Webpack • Babel • ESLint / Prettier • Biome • TurboRepo
@@ -38,10 +31,6 @@ Vercel • Netlify • AWS Amplify • Docker Containers • GitHub Actions • 
 
 #### **Version Control**
 Git • GitHub • GitLab
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ **Languages & Tools**
 
