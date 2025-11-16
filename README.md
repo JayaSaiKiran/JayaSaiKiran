@@ -4,8 +4,6 @@
 
 ### **Frontend Developer** specializing in **Vite + React** and **Next.js**, focused on building **modern**, **responsive**, and **scalable** web applications using **Tailwind CSS**, **Redux Toolkit**, **Zustand**, and **Shadcn UI**. Passionate about writing **clean, maintainable code** and crafting **user-friendly interfaces** that deliver **high performance**, **accessibility**, and a **seamless user experience** across all devices.
 
----
-
 I love working with:
 ✨ **Modern React patterns**
 ✨ **Reusable UI components**
@@ -14,17 +12,6 @@ I love working with:
 ✨ **Full-stack apps with serverless backends**
 
 ---
-
-## 🔥 **About Me**
-
-* 🌐 Strong expertise in **scalable React/Next.js applications**
-* 🎨 UI-driven development using **TailwindCSS & Shadcn UI**
-* ⚡ Performance-focused architecture (**memoization, RSC, server actions**)
-* 🧩 Skilled in building **reusable hooks and component libraries**
-* 🌀 Experience with **GSAP** for animations & micro-interactions
-* ☁️ Building serverless apps using **Hono + Neon Postgres**
-* 📦 Strong in **code reviews, mentoring, architecture decisions**, and creating maintainable systems
-
 ---
 
 ## 🛠️ **Languages & Tools**
@@ -88,8 +75,7 @@ I love working with:
 ## 📌 **What I’m Currently Working On**
 
 * **FrontNest** — A modern frontend knowledge & component hub built with **Next.js (App Router)**.
-  Includes:
-
+  * Includes:
   * **Custom Hooks:** useClipboard, useDebounce, useDialogStore, useFetch, useFullscreen, useTheme, useMobile, useHover, usePrevious, useToggle...
   * **Zustand Hooks:** useFullscreenStore, useHoverStore...
   * **Utilities:** Debounce, Format Date, Icon Renderer, Local Storage Helpers...
