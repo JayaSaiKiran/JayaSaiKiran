@@ -1,5 +1,3 @@
----
-
 # 🚀 **Hi, I'm JayaSaiKiran**
 
 ### **Frontend Developer** specializing in **Vite + React** and **Next.js**, focused on building **modern**, **responsive**, and **scalable** web applications using **Tailwind CSS**, **Redux Toolkit**, **Zustand**, and **Shadcn UI**. Passionate about writing **clean, maintainable code** and crafting **user-friendly interfaces** that deliver **high performance**, **accessibility**, and a **seamless user experience** across all devices.
