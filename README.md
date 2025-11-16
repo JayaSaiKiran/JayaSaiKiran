@@ -9,71 +9,35 @@ I love working with:
 ✨ **Micro-interactions using GSAP**
 ✨ **Full-stack apps with serverless backends**
 
-## 🛠️ **Languages & Tools**
+## 🛠️ Languages & Tools
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### **Frontend Core**
-* **Vite + React**
-* **Next.js**
-* **TypeScript**
-* **JavaScript (ES6+)**
-* **TailwindCSS**
-* **Shadcn UI**
-* **React-Bootstrap**
-* **Redux Toolkit**
-* **Zustand**
-* **TanStack Query/Table**
-* **SCSS / CSS3**
+#### **Frontend Core**
+Vite + React • Next.js • TypeScript • JavaScript (ES6+) • TailwindCSS • Shadcn UI • React-Bootstrap • Redux Toolkit • Zustand • TanStack Query/Table • SCSS / CSS3
 
-<br/>
+#### **Animations**
+GSAP (GreenSock)
 
-### **Animations**
-* **GSAP (GreenSock)**
-
-<br/>
-
-### **Backend / Serverless**
-* **Hono**
-* **Neon Serverless Postgres**
-* **Node.js**
-* **Express.js**
+#### **Backend / Serverless**
+Hono • Neon Serverless Postgres • Node.js • Express.js
 
 </td>
 <td width="50%" valign="top">
 
-### **Build & Tooling**
-* **Webpack**
-* **Babel**
-* **ESLint / Prettier**
-* **Biome**
-* **TurboRepo**
+#### **Build & Tooling**
+Webpack • Babel • ESLint / Prettier • Biome • TurboRepo
 
-<br/>
+#### **APIs & Data**
+REST APIs • TanStack Query • Axios / Fetch
 
-### **APIs & Data**
-* **REST APIs**
-* **TanStack Query**
-* **Axios / Fetch**
+#### **Hosting Tools**
+Vercel • Netlify • AWS Amplify • Docker Containers • GitHub Actions • VPS (Hostinger / Coolify / Dockploy / DigitalOcean)
 
-<br/>
-
-### **Hosting Tools**
-* **Vercel**
-* **Netlify**
-* **AWS Amplify**
-* **Docker Containers**
-* **GitHub Actions**
-* **VPS (Hostinger / Coolify / Dockploy / DigitalOcean)**
-
-<br/>
-
-### **Version Control**
-* **Git**
-* **GitHub**
-* **GitLab**
+#### **Version Control**
+Git • GitHub • GitLab
 
 </td>
 </tr>
